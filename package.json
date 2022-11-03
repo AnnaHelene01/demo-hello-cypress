@@ -1,0 +1,23 @@
+{
+  "name": "demo-hello-cypress",
+  "version": "1.0.0",
+  "description": "Workflow - Modul 3.3 hello-cypress-github-actions demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaHelene01/demo-hello-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaHelene01/demo-hello-cypress/issues"
+  },
+  "homepage": "https://github.com/AnnaHelene01/demo-hello-cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
